@@ -1,6 +1,6 @@
 .animation-image{
     
-    animation: movement  2s linear infinite;
+    animation: movement  7s linear infinite;
 }
 
 @keyframes movement {
